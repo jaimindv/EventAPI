@@ -16,6 +16,8 @@ This is a simple ticket booking API that allows users to register, purchase even
 ### User Registration
 
 - `POST /api/register/` - Register a user (Admin/User)
+- `POST /api/login/` - Login a user (Admin/User)
+- `POST /api/logout/` - Logout a user (Admin/User)
 
 ### Event Management
 
